@@ -4,11 +4,10 @@ This project is an Arduino-based human follower robot that uses an ultrasonic se
 
 Features
 
-Obstacle Detection: Utilizes an ultrasonic sensor to detect objects in front of the robot and adjusts its movement accordingly.
-
-Human Following: Equipped with two IR sensors to detect the proximity of a human hand, allowing the robot to follow or turn towards the person.
-Motor Control: Controls two motors to move the robot forward, turn left or right, and stop when necessary. Motor speeds are adjusted dynamically based on sensor readings.
-Simple and Efficient Design: The code is straightforward, making it easy to understand and modify for beginners.
+Obstacle Detection: Utilizes an ultrasonic sensor to detect objects in front of the robot and adjusts its movement accordingly.    
+Human Following: Equipped with two IR sensors to detect the proximity of a human hand, allowing the robot to follow or turn towards the person.    
+Motor Control: Controls two motors to move the robot forward, turn left or right, and stop when necessary. Motor speeds are adjusted dynamically based on sensor readings.    
+Simple and Efficient Design: The code is straightforward, making it easy to understand and modify for beginners.  
 
 Components
 
